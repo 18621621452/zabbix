@@ -1,0 +1,138 @@
+  1948:20170113:154217.944 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  1948:20170113:154217.944 using configuration file: D:\zabbix\zabbix_agentd.conf
+  1952:20170113:154217.944 agent #0 started [collector]
+  1956:20170113:154217.944 agent #1 started [listener #1]
+  1960:20170113:154217.944 agent #2 started [listener #2]
+  1964:20170113:154217.944 agent #3 started [listener #3]
+  1452:20170113:221916.409 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  1452:20170113:221916.409 using configuration file: D:\zabbix\zabbix_agentd.conf
+  1456:20170113:221916.409 agent #0 started [collector]
+  1252:20170113:221916.409 agent #1 started [listener #1]
+   764:20170113:221916.409 agent #2 started [listener #2]
+   792:20170113:221916.409 agent #3 started [listener #3]
+  1944:20170115:165623.490 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  1944:20170115:165623.490 using configuration file: D:\zabbix\zabbix_agentd.conf
+  1952:20170115:165623.505 agent #0 started [collector]
+  1956:20170115:165623.505 agent #1 started [listener #1]
+  1960:20170115:165623.505 agent #2 started [listener #2]
+  1964:20170115:165623.505 agent #3 started [listener #3]
+  1944:20170116:112121.785 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  1944:20170116:112121.785 using configuration file: D:\zabbix\zabbix_agentd.conf
+  1952:20170116:112121.816 agent #0 started [collector]
+  1956:20170116:112121.816 agent #1 started [listener #1]
+  1960:20170116:112121.816 agent #2 started [listener #2]
+  1964:20170116:112121.816 agent #3 started [listener #3]
+  1960:20170307:164156.325 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  1960:20170307:164156.325 using configuration file: D:\zabbix\zabbix_agentd.conf
+  1972:20170307:164156.340 agent #0 started [collector]
+  1976:20170307:164156.340 agent #1 started [listener #1]
+  1980:20170307:164156.340 agent #2 started [listener #2]
+  1984:20170307:164156.340 agent #3 started [listener #3]
+  1928:20170307:164627.276 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  1928:20170307:164627.276 using configuration file: D:\zabbix\zabbix_agentd.conf
+  1960:20170307:164627.307 agent #0 started [collector]
+  1964:20170307:164627.307 agent #1 started [listener #1]
+  1968:20170307:164627.307 agent #2 started [listener #2]
+  1972:20170307:164627.307 agent #3 started [listener #3]
+  1272:20170314:095623.816 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  1272:20170314:095623.816 using configuration file: D:\zabbix\zabbix_agentd.conf
+   760:20170314:095623.816 agent #0 started [collector]
+   792:20170314:095623.831 agent #1 started [listener #1]
+   836:20170314:095623.831 agent #2 started [listener #2]
+   840:20170314:095623.831 agent #3 started [listener #3]
+   816:20170320:112658.011 Zabbix Agent shutdown requested
+   760:20170320:112659.105 zabbix_agentd collector stopped
+   816:20170320:112701.062 Zabbix Agent stopped. Zabbix 2.2.5 (revision 47406).
+  1032:20170320:113035.231 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  1032:20170320:113035.231 using configuration file: D:\zabbix\zabbix_agentd.conf
+  1180:20170320:113035.294 agent #0 started [collector]
+  1096:20170320:113035.294 agent #1 started [listener #1]
+  1300:20170320:113035.294 agent #2 started [listener #2]
+   624:20170320:113035.294 agent #3 started [listener #3]
+  2056:20170320:115925.863 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  2056:20170320:115925.863 using configuration file: D:\zabbix\zabbix_agentd.conf
+  2064:20170320:115925.894 agent #0 started [collector]
+  2068:20170320:115925.894 agent #1 started [listener #1]
+  2072:20170320:115925.894 agent #2 started [listener #2]
+  2076:20170320:115925.894 agent #3 started [listener #3]
+  1964:20170320:132442.522 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  1964:20170320:132442.522 using configuration file: D:\zabbix\zabbix_agentd.conf
+  1972:20170320:132442.537 agent #0 started [collector]
+  1976:20170320:132442.537 agent #1 started [listener #1]
+  1980:20170320:132442.537 agent #2 started [listener #2]
+  1984:20170320:132442.537 agent #3 started [listener #3]
+  1928:20170327:142233.555 Zabbix Agent shutdown requested
+  1972:20170327:142233.738 zabbix_agentd collector stopped
+  1928:20170327:142234.707 Zabbix Agent stopped. Zabbix 2.2.5 (revision 47406).
+  2336:20170327:142532.671 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  2336:20170327:142532.671 using configuration file: D:\zabbix\zabbix_agentd.conf
+  2396:20170327:142532.687 agent #0 started [collector]
+  2400:20170327:142532.687 agent #1 started [listener #1]
+  2404:20170327:142532.687 agent #2 started [listener #2]
+  2408:20170327:142532.687 agent #3 started [listener #3]
+  1988:20170406:222556.324 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  1988:20170406:222556.324 using configuration file: D:\zabbix\zabbix_agentd.conf
+  2004:20170406:222556.339 agent #0 started [collector]
+  2008:20170406:222556.339 agent #1 started [listener #1]
+  2012:20170406:222556.339 agent #2 started [listener #2]
+  2016:20170406:222556.339 agent #3 started [listener #3]
+  1992:20170413:133851.126 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  1992:20170413:133851.126 using configuration file: D:\zabbix\zabbix_agentd.conf
+  2004:20170413:133851.126 agent #0 started [collector]
+  2008:20170413:133851.126 agent #1 started [listener #1]
+  2012:20170413:133851.126 agent #2 started [listener #2]
+  2016:20170413:133851.126 agent #3 started [listener #3]
+  1428:20170418:093022.075 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  1428:20170418:093022.075 using configuration file: D:\zabbix\zabbix_agentd.conf
+  1464:20170418:093022.075 agent #0 started [collector]
+   676:20170418:093022.075 agent #1 started [listener #1]
+   764:20170418:093022.075 agent #2 started [listener #2]
+  1060:20170418:093022.075 agent #3 started [listener #3]
+  1948:20170418:093710.463 Starting Zabbix Agent [WIN-I0JU1N0U199]. Zabbix 2.2.5 (revision 47406).
+  1948:20170418:093710.463 using configuration file: D:\zabbix\zabbix_agentd.conf
+  1956:20170418:093710.463 agent #0 started [collector]
+  1960:20170418:093710.463 agent #1 started [listener #1]
+  1964:20170418:093710.463 agent #2 started [listener #2]
+  1968:20170418:093710.463 agent #3 started [listener #3]
+  3708:20170818:205717.741 Starting Zabbix Agent [WINDOWS2012R2]. Zabbix 2.2.5 (revision 47406).
+  3708:20170818:205717.741 using configuration file: D:\soft\zabbix\zabbix_agentd.conf
+  4788:20170818:205717.742 agent #2 started [listener #2]
+  4388:20170818:205717.742 agent #0 started [collector]
+  4748:20170818:205717.743 agent #1 started [listener #1]
+  4396:20170818:205717.743 agent #3 started [listener #3]
+  4728:20170818:205811.951 Zabbix Agent shutdown requested
+  4388:20170818:205812.114 zabbix_agentd collector stopped
+  4728:20170818:205812.953 Zabbix Agent stopped. Zabbix 2.2.5 (revision 47406).
+  2728:20170818:205832.465 Starting Zabbix Agent [WINDOWS2012R2]. Zabbix 2.2.5 (revision 47406).
+  2728:20170818:205832.465 using configuration file: D:\soft\zabbix\zabbix_agentd.conf
+  2808:20170818:205832.466 agent #1 started [listener #1]
+  2812:20170818:205832.467 agent #2 started [listener #2]
+  2816:20170818:205832.467 agent #3 started [listener #3]
+  2804:20170818:205832.467 agent #0 started [collector]
+  2692:20170821:104422.486 Zabbix Agent shutdown requested
+  2816:20170821:104422.760 zabbix_agentd listener stopped
+  2804:20170821:104423.438 zabbix_agentd collector stopped
+  2692:20170821:104423.486 Zabbix Agent stopped. Zabbix 2.2.5 (revision 47406).
+  5608:20170821:104423.827 Starting Zabbix Agent [weixin-thread]. Zabbix 2.2.5 (revision 47406).
+  5608:20170821:104423.828 using configuration file: D:\soft\zabbix\zabbix_agentd.conf
+   416:20170821:104423.845 agent #0 started [collector]
+  5124:20170821:104423.846 agent #1 started [listener #1]
+   932:20170821:104423.847 agent #2 started [listener #2]
+  3832:20170821:104423.848 agent #3 started [listener #3]
+  5644:20170821:104423.849 agent #4 started [active checks #1]
+  5644:20170821:104425.075 active check "perf_counter[\SQLAgent:Jobs(_Total)\Failed jobs]" is not supported
+  5272:20170821:104500.312 Zabbix Agent shutdown requested
+   932:20170821:104500.618 zabbix_agentd listener stopped
+   416:20170821:104501.066 zabbix_agentd collector stopped
+  5644:20170821:104501.078 zabbix_agentd active check stopped
+  5272:20170821:104501.312 Zabbix Agent stopped. Zabbix 2.2.5 (revision 47406).
+  5140:20170821:104501.643 Starting Zabbix Agent [weixin-thread]. Zabbix 2.2.5 (revision 47406).
+  5140:20170821:104501.644 using configuration file: D:\soft\zabbix\zabbix_agentd.conf
+  4408:20170821:104501.651 agent #1 started [listener #1]
+  6072:20170821:104501.652 agent #2 started [listener #2]
+  1932:20170821:104501.653 agent #4 started [active checks #1]
+  5984:20170821:104501.654 agent #3 started [listener #3]
+  1016:20170821:104501.656 agent #0 started [collector]
+  1932:20170821:105504.310 active check "perf_counter[\SQLAgent:Jobs(_Total)\Failed jobs]" is not supported
+  1932:20170821:115504.024 active check "perf_counter[\SQLAgent:Jobs(_Total)\Failed jobs]" is not supported
+  1932:20170821:125505.001 active check "perf_counter[\SQLAgent:Jobs(_Total)\Failed jobs]" is not supported
