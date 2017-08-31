@@ -1,8 +1,7 @@
-Active connections          #»î¶¯Á¬½ÓÊı
-Accepted connections\min    #Ã¿·ÖÖÓ½¨Á¢µÄÁ¬½ÓÊı
-Handled connections\min     #Ã¿·ÖÖÓÎÕÊÖµÄÁ¬½ÓÊı
-Requests\min                #Ã¿·ÖÖÓÇëÇóÊı
-Reading Connections         #¶ÁÈ¡¿Í»§¶ËµÄÁ¬½ÓÊı
-Writing Connections         #ÏìÓ¦Êı¾İµ½¿Í»§¶ËµÄÊıÁ¿
-Waiting Connections         #¿ªÆôkeep-aliveµÄÇé¿öÏÂ,Õâ¸öÖµµÈÓÚactive¨C(reading+writing),ÒâË¼¾ÍÊÇNginxÒÑ¾­´¦ÀíÍêÕıÔÚµÈºòÏÂÒ»´ÎÇëÇóÖ¸ÁîµÄ×¤ÁôÁ¬½Ó
-Nginx Proc_Num              #Nginx»î¶¯½ø³ÌÊı
+Active connections #æ´»åŠ¨è¿æ¥æ•° 
+Accepted connections\min #æ¯åˆ†é’Ÿå»ºç«‹çš„è¿æ¥æ•° 
+Handled connections\min #æ¯åˆ†é’Ÿæ¡æ‰‹çš„è¿æ¥æ•° 
+Requests\min #æ¯åˆ†é’Ÿè¯·æ±‚æ•° 
+Reading Connections #è¯»å–å®¢æˆ·ç«¯çš„è¿æ¥æ•° 
+Writing Connections #å“åº”æ•°æ®åˆ°å®¢æˆ·ç«¯çš„æ•°é‡ 
+Waiting Connections #å¼€å¯keep-aliveçš„æƒ…å†µä¸‹,è¿™ä¸ªå€¼ç­‰äºactiveâ€“(reading+writing),æ„æ€å°±æ˜¯Nginxå·²ç»å¤„ç†å®Œæ­£åœ¨ç­‰å€™ä¸‹ä¸€æ¬¡è¯·æ±‚æŒ‡ä»¤çš„é©»ç•™è¿æ¥ Nginx Proc_Num #Nginxæ´»åŠ¨è¿›ç¨‹æ•°
